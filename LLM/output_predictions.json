@@ -1,0 +1,13 @@
+[
+  {
+    "chunk_id": 20,
+    "low_level_actions": [
+      {
+        "verb": "GRASP_OBJECT",
+        "object": "PEN",
+        "confidence": 0.9
+      }
+    ],
+    "high_level_task": "writing on paper"
+  }
+]
