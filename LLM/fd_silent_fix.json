@@ -1,0 +1,1750 @@
+[
+    {
+        "chunk_id": 0,
+        "time": "0-3",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 750,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": ""
+    },
+    {
+        "chunk_id": 1,
+        "time": "3-6",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 825,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": ""
+    },
+    {
+        "chunk_id": 2,
+        "time": "6-9",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 900,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": ""
+    },
+    {
+        "chunk_id": 3,
+        "time": "9-12",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 975,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "MONITOR",
+            "MEASURING_TAPE",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "Participant is turning."
+    },
+    {
+        "chunk_id": 4,
+        "time": "12-15",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 1050,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "MONITOR",
+            "KEYBOARD",
+            "PACKAGE"
+        ],
+        "action_probs": {},
+        "participant_text": "sitting on the chair."
+    },
+    {
+        "chunk_id": 5,
+        "time": "15-18",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 1125,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] sitting on the chair."
+    },
+    {
+        "chunk_id": 6,
+        "time": "18-21",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 1200,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] sitting on the chair."
+    },
+    {
+        "chunk_id": 7,
+        "time": "21-24",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 1275,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] sitting on the chair."
+    },
+    {
+        "chunk_id": 8,
+        "time": "24-27",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 1350,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "participants to"
+    },
+    {
+        "chunk_id": 9,
+        "time": "27-30",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 1425,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "is sitting still as participating."
+    },
+    {
+        "chunk_id": 10,
+        "time": "30-33",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 1500,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "from the clapping, turning."
+    },
+    {
+        "chunk_id": 11,
+        "time": "33-36",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 1575,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "the furniture, putting to the desk."
+    },
+    {
+        "chunk_id": 12,
+        "time": "36-39",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 1650,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "moving things around on the desk."
+    },
+    {
+        "chunk_id": 13,
+        "time": "39-42",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 1725,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "now participants writing on the keyboard."
+    },
+    {
+        "chunk_id": 14,
+        "time": "42-45",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 1800,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] now participants writing on the keyboard."
+    },
+    {
+        "chunk_id": 15,
+        "time": "45-48",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 1875,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "LAPTOP",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "still writing on the keyboard"
+    },
+    {
+        "chunk_id": 16,
+        "time": "48-51",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 1950,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "LAPTOP",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "Good."
+    },
+    {
+        "chunk_id": 17,
+        "time": "51-54",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 2025,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] Good."
+    },
+    {
+        "chunk_id": 18,
+        "time": "54-57",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 2100,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] Good."
+    },
+    {
+        "chunk_id": 19,
+        "time": "57-60",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 2175,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "LAPTOP",
+            "MONITOR",
+            "KEYBOARD",
+            "PEN"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] Good."
+    },
+    {
+        "chunk_id": 20,
+        "time": "60-63",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 2250,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "LAPTOP",
+            "MONITOR",
+            "KEYBOARD",
+            "PEN"
+        ],
+        "action_probs": {},
+        "participant_text": "writing"
+    },
+    {
+        "chunk_id": 21,
+        "time": "63-66",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 2325,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "LAPTOP",
+            "MONITOR",
+            "KEYBOARD",
+            "PEN"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] writing"
+    },
+    {
+        "chunk_id": 22,
+        "time": "66-69",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 2400,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "LAPTOP",
+            "MONITOR",
+            "KEYBOARD",
+            "PEN"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] writing"
+    },
+    {
+        "chunk_id": 23,
+        "time": "69-72",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 2475,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "LAPTOP",
+            "MONITOR",
+            "KEYBOARD",
+            "PEN"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] writing"
+    },
+    {
+        "chunk_id": 24,
+        "time": "72-75",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 2550,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "LAPTOP",
+            "MONITOR",
+            "KEYBOARD",
+            "PEN"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] writing"
+    },
+    {
+        "chunk_id": 25,
+        "time": "75-78",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 2625,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "LAPTOP",
+            "MONITOR",
+            "KEYBOARD",
+            "PEN"
+        ],
+        "action_probs": {},
+        "participant_text": "but this is not looking at the..."
+    },
+    {
+        "chunk_id": 26,
+        "time": "78-81",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 2700,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "LAPTOP",
+            "MONITOR",
+            "KEYBOARD",
+            "PEN"
+        ],
+        "action_probs": {},
+        "participant_text": "picking up another paper."
+    },
+    {
+        "chunk_id": 27,
+        "time": "81-84",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 2775,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "LAPTOP",
+            "MONITOR",
+            "KEYBOARD",
+            "PEN"
+        ],
+        "action_probs": {},
+        "participant_text": "opening the box"
+    },
+    {
+        "chunk_id": 28,
+        "time": "84-87",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 2850,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "dengan keputusan"
+    },
+    {
+        "chunk_id": 29,
+        "time": "87-90",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 2925,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MEASURING_TAPE",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "the writing on the paper."
+    },
+    {
+        "chunk_id": 30,
+        "time": "90-93",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 3000,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] the writing on the paper."
+    },
+    {
+        "chunk_id": 31,
+        "time": "93-96",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 3075,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] the writing on the paper."
+    },
+    {
+        "chunk_id": 32,
+        "time": "96-99",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 3150,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "KEYBOARD",
+            "LAPTOP"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] the writing on the paper."
+    },
+    {
+        "chunk_id": 33,
+        "time": "99-102",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 3225,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "LAPTOP",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] the writing on the paper."
+    },
+    {
+        "chunk_id": 34,
+        "time": "102-105",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 3300,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "MEASURING_TAPE",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] the writing on the paper."
+    },
+    {
+        "chunk_id": 35,
+        "time": "105-108",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 3375,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] the writing on the paper."
+    },
+    {
+        "chunk_id": 36,
+        "time": "108-111",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 3450,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "KEYBOARD",
+            "LAPTOP"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] the writing on the paper."
+    },
+    {
+        "chunk_id": 37,
+        "time": "111-114",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 3525,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] the writing on the paper."
+    },
+    {
+        "chunk_id": 38,
+        "time": "114-117",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 3600,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "KEYBOARD",
+            "LAPTOP"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] the writing on the paper."
+    },
+    {
+        "chunk_id": 39,
+        "time": "117-120",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 3675,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "KEYBOARD",
+            "LAPTOP"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] the writing on the paper."
+    },
+    {
+        "chunk_id": 40,
+        "time": "120-123",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 3750,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "KEYBOARD",
+            "LAPTOP"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] the writing on the paper."
+    },
+    {
+        "chunk_id": 41,
+        "time": "123-126",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 3825,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] the writing on the paper."
+    },
+    {
+        "chunk_id": 42,
+        "time": "126-129",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 3900,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "KEYBOARD",
+            "LAPTOP"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] the writing on the paper."
+    },
+    {
+        "chunk_id": 43,
+        "time": "129-132",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 3975,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "LAPTOP",
+            "SCISSORS",
+            "KEYBOARD",
+            "PEN"
+        ],
+        "action_probs": {},
+        "participant_text": "Participate in the video. Participate in the video."
+    },
+    {
+        "chunk_id": 44,
+        "time": "132-135",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 4050,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "putting the paper in a way, looking at the..."
+    },
+    {
+        "chunk_id": 45,
+        "time": "135-138",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 4125,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "other paper picking up scissors."
+    },
+    {
+        "chunk_id": 46,
+        "time": "138-141",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 4200,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "closing the books."
+    },
+    {
+        "chunk_id": 47,
+        "time": "141-144",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 4275,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "SCISSORS",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "And now it's cut."
+    },
+    {
+        "chunk_id": 48,
+        "time": "144-147",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 4350,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "SCISSORS",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "the paper upstairs."
+    },
+    {
+        "chunk_id": 49,
+        "time": "147-150",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 4425,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "SCISSORS",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] the paper upstairs."
+    },
+    {
+        "chunk_id": 50,
+        "time": "150-153",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 4500,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "LAPTOP",
+            "BOX",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "Scouting"
+    },
+    {
+        "chunk_id": 51,
+        "time": "153-156",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 4575,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "LAPTOP",
+            "MONITOR",
+            "KEYBOARD",
+            "PEN"
+        ],
+        "action_probs": {},
+        "participant_text": "a reposition in KENZ and"
+    },
+    {
+        "chunk_id": 52,
+        "time": "156-159",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 4650,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "second cutting."
+    },
+    {
+        "chunk_id": 53,
+        "time": "159-162",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 4725,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "LAPTOP",
+            "MONITOR",
+            "SCISSORS",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] second cutting."
+    },
+    {
+        "chunk_id": 54,
+        "time": "162-165",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 4800,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "SCISSORS",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] second cutting."
+    },
+    {
+        "chunk_id": 55,
+        "time": "165-168",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 4875,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] second cutting."
+    },
+    {
+        "chunk_id": 56,
+        "time": "168-171",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 4950,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "SCISSORS",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] second cutting."
+    },
+    {
+        "chunk_id": 57,
+        "time": "171-174",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 5025,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "LAPTOP",
+            "MONITOR",
+            "KEYBOARD",
+            "MEASURING_TAPE",
+            "BOX"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] second cutting."
+    },
+    {
+        "chunk_id": 58,
+        "time": "174-177",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 5100,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] second cutting."
+    },
+    {
+        "chunk_id": 59,
+        "time": "177-180",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 5175,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "LAPTOP",
+            "MONITOR",
+            "KEYBOARD",
+            "MEASURING_TAPE",
+            "SCISSORS"
+        ],
+        "action_probs": {},
+        "participant_text": "down the scissors and the paper put away the paper."
+    },
+    {
+        "chunk_id": 60,
+        "time": "180-183",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 5250,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "KEYBOARD",
+            "SCISSORS",
+            "PACKAGE"
+        ],
+        "action_probs": {},
+        "participant_text": "looking at the tasks on the paper."
+    },
+    {
+        "chunk_id": 61,
+        "time": "183-186",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 5325,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "LAPTOP",
+            "SCISSORS",
+            "KEYBOARD",
+            "PEN"
+        ],
+        "action_probs": {},
+        "participant_text": "opening the box."
+    },
+    {
+        "chunk_id": 62,
+        "time": "186-189",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 5400,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "KEYBOARD",
+            "SCISSORS",
+            "MEASURING_TAPE"
+        ],
+        "action_probs": {},
+        "participant_text": "of the measuring tape."
+    },
+    {
+        "chunk_id": 63,
+        "time": "189-192",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 5475,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "LAPTOP",
+            "MONITOR",
+            "KEYBOARD",
+            "MEASURING_TAPE"
+        ],
+        "action_probs": {},
+        "participant_text": "looking for the papers"
+    },
+    {
+        "chunk_id": 64,
+        "time": "192-195",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 5550,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "KEYBOARD",
+            "SCISSORS",
+            "MEASURING_TAPE"
+        ],
+        "action_probs": {},
+        "participant_text": "Open the good box, picking up the pin."
+    },
+    {
+        "chunk_id": 65,
+        "time": "195-198",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 5625,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "MEASURING_TAPE",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "and the closing box."
+    },
+    {
+        "chunk_id": 66,
+        "time": "198-201",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 5700,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "SCISSORS",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] and the closing box."
+    },
+    {
+        "chunk_id": 67,
+        "time": "201-204",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 5775,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "KEYBOARD",
+            "MEASURING_TAPE",
+            "SCISSORS",
+            "BOX"
+        ],
+        "action_probs": {},
+        "participant_text": "and measuring"
+    },
+    {
+        "chunk_id": 68,
+        "time": "204-207",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 5850,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "SCISSORS",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "the monitor screen."
+    },
+    {
+        "chunk_id": 69,
+        "time": "207-210",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 5925,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "LAPTOP",
+            "MONITOR",
+            "KEYBOARD",
+            "SCISSORS",
+            "MEASURING_TAPE"
+        ],
+        "action_probs": {},
+        "participant_text": "We've the tape."
+    },
+    {
+        "chunk_id": 70,
+        "time": "210-213",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 6000,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "LAPTOP",
+            "MONITOR",
+            "KEYBOARD",
+            "SCISSORS"
+        ],
+        "action_probs": {},
+        "participant_text": "And picking up the..."
+    },
+    {
+        "chunk_id": 71,
+        "time": "213-216",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 6075,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "LAPTOP",
+            "BOX",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "writing."
+    },
+    {
+        "chunk_id": 72,
+        "time": "216-219",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 6150,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "BOX"
+        ],
+        "action_probs": {},
+        "participant_text": "measuring screen again"
+    },
+    {
+        "chunk_id": 73,
+        "time": "219-222",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 6225,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "BOX"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] measuring screen again"
+    },
+    {
+        "chunk_id": 74,
+        "time": "222-225",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 6300,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "TRASH CAN",
+            "SCISSORS",
+            "BOX"
+        ],
+        "action_probs": {},
+        "participant_text": "and pick up a pen and write"
+    },
+    {
+        "chunk_id": 75,
+        "time": "225-228",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 6375,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "LAPTOP",
+            "BOX",
+            "CARTON"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] and pick up a pen and write"
+    },
+    {
+        "chunk_id": 76,
+        "time": "228-231",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 6450,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "BOX",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "Measure screen again."
+    },
+    {
+        "chunk_id": 77,
+        "time": "231-234",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 6525,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "BOX",
+            "CARTON"
+        ],
+        "action_probs": {},
+        "participant_text": "We got..."
+    },
+    {
+        "chunk_id": 78,
+        "time": "234-237",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 6600,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "LAPTOP",
+            "BOX"
+        ],
+        "action_probs": {},
+        "participant_text": "a pen at the right."
+    },
+    {
+        "chunk_id": 79,
+        "time": "237-240",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 6675,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "BOX"
+        ],
+        "action_probs": {},
+        "participant_text": "Open the box."
+    },
+    {
+        "chunk_id": 80,
+        "time": "240-243",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 6750,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "BOX"
+        ],
+        "action_probs": {},
+        "participant_text": "Put down the pen, put down the tape."
+    },
+    {
+        "chunk_id": 81,
+        "time": "243-246",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 6825,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "SCISSORS",
+            "BOX"
+        ],
+        "action_probs": {},
+        "participant_text": "Closed the box, delete."
+    },
+    {
+        "chunk_id": 82,
+        "time": "246-249",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 6900,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "BOX"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] Closed the box, delete."
+    },
+    {
+        "chunk_id": 83,
+        "time": "249-252",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 6975,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "BOX"
+        ],
+        "action_probs": {},
+        "participant_text": "Go stand up."
+    },
+    {
+        "chunk_id": 84,
+        "time": "252-255",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 7050,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "LAPTOP",
+            "BOX",
+            "KEYBOARD",
+            "PEN"
+        ],
+        "action_probs": {},
+        "participant_text": "doing squats."
+    },
+    {
+        "chunk_id": 85,
+        "time": "255-258",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 7125,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "LAPTOP",
+            "BOX"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] doing squats."
+    },
+    {
+        "chunk_id": 86,
+        "time": "258-261",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 7200,
+                "status": "success"
+            }
+        },
+        "objects": [],
+        "action_probs": {},
+        "participant_text": "Done."
+    },
+    {
+        "chunk_id": 87,
+        "time": "261-264",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 7275,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "BOX",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "five squats, going back to the"
+    },
+    {
+        "chunk_id": 88,
+        "time": "264-267",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 7350,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "LAPTOP",
+            "KEYBOARD",
+            "SCISSORS",
+            "BOX"
+        ],
+        "action_probs": {},
+        "participant_text": "table looking at the paper picking up"
+    },
+    {
+        "chunk_id": 89,
+        "time": "267-270",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 7425,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "PEN",
+            "BOX"
+        ],
+        "action_probs": {},
+        "participant_text": "and put it down. Open the"
+    },
+    {
+        "chunk_id": 90,
+        "time": "270-273",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 7500,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "MONITOR",
+            "BOX"
+        ],
+        "action_probs": {},
+        "participant_text": "box pick up the link"
+    },
+    {
+        "chunk_id": 91,
+        "time": "273-276",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 7575,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "BOX"
+        ],
+        "action_probs": {},
+        "participant_text": "eight, four."
+    },
+    {
+        "chunk_id": 92,
+        "time": "276-279",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 7650,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "BOX"
+        ],
+        "action_probs": {},
+        "participant_text": "Pick up, put down the list."
+    },
+    {
+        "chunk_id": 93,
+        "time": "279-282",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 7725,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "LAPTOP",
+            "SCISSORS"
+        ],
+        "action_probs": {},
+        "participant_text": "pick up the film from the box the"
+    },
+    {
+        "chunk_id": 94,
+        "time": "282-285",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 7800,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "LAPTOP",
+            "MONITOR",
+            "BOX",
+            "KEYBOARD"
+        ],
+        "action_probs": {},
+        "participant_text": "the redder. Put it down on the floor."
+    },
+    {
+        "chunk_id": 95,
+        "time": "285-288",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 7875,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "LAPTOP",
+            "MONITOR",
+            "BOX"
+        ],
+        "action_probs": {},
+        "participant_text": "take the card and flash"
+    },
+    {
+        "chunk_id": 96,
+        "time": "288-291",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 7950,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "BOX"
+        ],
+        "action_probs": {},
+        "participant_text": "it into the power outlet."
+    },
+    {
+        "chunk_id": 97,
+        "time": "291-294",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 8025,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "BOX"
+        ],
+        "action_probs": {},
+        "participant_text": "um third on the shreds"
+    },
+    {
+        "chunk_id": 98,
+        "time": "294-297",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 8100,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "BOX",
+            "SCISSORS"
+        ],
+        "action_probs": {},
+        "participant_text": "there. Go and pick up."
+    },
+    {
+        "chunk_id": 99,
+        "time": "297-300",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 8175,
+                "status": "success"
+            }
+        },
+        "objects": [],
+        "action_probs": {},
+        "participant_text": "the paper and"
+    },
+    {
+        "chunk_id": 100,
+        "time": "300-303",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 8250,
+                "status": "success"
+            }
+        },
+        "objects": [],
+        "action_probs": {},
+        "participant_text": "put it in the shredder"
+    },
+    {
+        "chunk_id": 101,
+        "time": "303-306",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 8325,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "BOX"
+        ],
+        "action_probs": {},
+        "participant_text": "now it just standing and waiting."
+    },
+    {
+        "chunk_id": 102,
+        "time": "306-309",
+        "cameras_data": {
+            "gopro": {
+                "processed_frame": 8400,
+                "status": "success"
+            }
+        },
+        "objects": [
+            "LAPTOP",
+            "BOX",
+            "KEYBOARD",
+            "PEN"
+        ],
+        "action_probs": {},
+        "participant_text": "[Propagated] now it just standing and waiting."
+    }
+]
