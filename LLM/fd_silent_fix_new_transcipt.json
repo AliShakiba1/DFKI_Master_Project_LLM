@@ -1,0 +1,1045 @@
+[
+    {
+        "chunk_id": 0,
+        "time": "0-3",
+        "objects": [
+            "BOX",
+            "PEN",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "collaboration collaboration turn"
+    },
+    {
+        "chunk_id": 1,
+        "time": "3-6",
+        "objects": [
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "turn on the chair getting on the desk looking"
+    },
+    {
+        "chunk_id": 2,
+        "time": "6-9",
+        "objects": [
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "looking on the paper typing"
+    },
+    {
+        "chunk_id": 3,
+        "time": "9-12",
+        "objects": [
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "typing on the keyboard still"
+    },
+    {
+        "chunk_id": 4,
+        "time": "12-15",
+        "objects": [
+            "BOX",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "still typing on the keyboard typing"
+    },
+    {
+        "chunk_id": 5,
+        "time": "15-18",
+        "objects": [
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "typing on the keyboard typing"
+    },
+    {
+        "chunk_id": 6,
+        "time": "18-21",
+        "objects": [
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "typing on the keyboard typing"
+    },
+    {
+        "chunk_id": 7,
+        "time": "21-24",
+        "objects": [
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "typing on the keyboard typing"
+    },
+    {
+        "chunk_id": 8,
+        "time": "24-27",
+        "objects": [
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "typing on the keyboard"
+    },
+    {
+        "chunk_id": 9,
+        "time": "27-30",
+        "objects": [
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "keyboard typing"
+    },
+    {
+        "chunk_id": 10,
+        "time": "30-33",
+        "objects": [
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "typing on the keyboard typing"
+    },
+    {
+        "chunk_id": 11,
+        "time": "33-36",
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "typing on the keyboard still"
+    },
+    {
+        "chunk_id": 12,
+        "time": "36-39",
+        "objects": [
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "still"
+    },
+    {
+        "chunk_id": 13,
+        "time": "39-42",
+        "objects": [
+            "MEASURING_TAPE",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "still typing on the keyboard typing"
+    },
+    {
+        "chunk_id": 14,
+        "time": "42-45",
+        "objects": [
+            "BOX",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "typing on the keyboard look"
+    },
+    {
+        "chunk_id": 15,
+        "time": "45-48",
+        "objects": [
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "look into the paper"
+    },
+    {
+        "chunk_id": 16,
+        "time": "48-51",
+        "objects": [
+            "LAPTOP",
+            "MEASURING_TAPE",
+            "KEYBOARD"
+        ],
+        "participant_text": "paper pick another paper open"
+    },
+    {
+        "chunk_id": 17,
+        "time": "51-54",
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "open the box pick"
+    },
+    {
+        "chunk_id": 18,
+        "time": "54-57",
+        "objects": [
+            "LAPTOP",
+            "PEN",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "pick up the pen writing"
+    },
+    {
+        "chunk_id": 19,
+        "time": "57-60",
+        "objects": [
+            "LAPTOP",
+            "PEN",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "writing on the paper writing"
+    },
+    {
+        "chunk_id": 20,
+        "time": "60-63",
+        "objects": [
+            "LAPTOP",
+            "PEN",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "writing on the paper"
+    },
+    {
+        "chunk_id": 21,
+        "time": "63-66",
+        "objects": [
+            "PEN",
+            "MEASURING_TAPE",
+            "KEYBOARD",
+            "LAPTOP",
+            "MONITOR"
+        ],
+        "participant_text": "writing on the paper"
+    },
+    {
+        "chunk_id": 22,
+        "time": "66-69",
+        "objects": [
+            "PEN",
+            "MEASURING_TAPE",
+            "KEYBOARD",
+            "LAPTOP",
+            "MONITOR"
+        ],
+        "participant_text": "paper writing"
+    },
+    {
+        "chunk_id": 23,
+        "time": "69-72",
+        "objects": [
+            "LAPTOP",
+            "PEN",
+            "KEYBOARD"
+        ],
+        "participant_text": "writing on the paper still"
+    },
+    {
+        "chunk_id": 24,
+        "time": "72-75",
+        "objects": [
+            "LAPTOP",
+            "PEN",
+            "KEYBOARD"
+        ],
+        "participant_text": "still writing on the paper"
+    },
+    {
+        "chunk_id": 25,
+        "time": "75-78",
+        "objects": [
+            "LAPTOP",
+            "PEN",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "writing"
+    },
+    {
+        "chunk_id": 26,
+        "time": "78-81",
+        "objects": [
+            "LAPTOP",
+            "PEN",
+            "KEYBOARD"
+        ],
+        "participant_text": "writing on the paper"
+    },
+    {
+        "chunk_id": 27,
+        "time": "81-84",
+        "objects": [
+            "LAPTOP",
+            "PEN",
+            "KEYBOARD"
+        ],
+        "participant_text": "writing on the paper"
+    },
+    {
+        "chunk_id": 28,
+        "time": "84-87",
+        "objects": [
+            "LAPTOP",
+            "PEN",
+            "KEYBOARD"
+        ],
+        "participant_text": "[Propagated] writing on the paper"
+    },
+    {
+        "chunk_id": 29,
+        "time": "87-90",
+        "objects": [
+            "PEN",
+            "KEYBOARD"
+        ],
+        "participant_text": "writing on the paper writing"
+    },
+    {
+        "chunk_id": 30,
+        "time": "90-93",
+        "objects": [
+            "LAPTOP",
+            "PEN",
+            "KEYBOARD"
+        ],
+        "participant_text": "writing on the paper, writing"
+    },
+    {
+        "chunk_id": 31,
+        "time": "93-96",
+        "objects": [
+            "LAPTOP",
+            "PEN",
+            "KEYBOARD"
+        ],
+        "participant_text": "writing on the paper, writing"
+    },
+    {
+        "chunk_id": 32,
+        "time": "96-99",
+        "objects": [
+            "PEN",
+            "MEASURING_TAPE",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "writing on the paper,"
+    },
+    {
+        "chunk_id": 33,
+        "time": "99-102",
+        "objects": [
+            "LAPTOP",
+            "BOX",
+            "KEYBOARD"
+        ],
+        "participant_text": "put the pen away,"
+    },
+    {
+        "chunk_id": 34,
+        "time": "102-105",
+        "objects": [
+            "PEN",
+            "SCISSORS",
+            "MEASURING_TAPE",
+            "KEYBOARD",
+            "MONITOR"
+        ],
+        "participant_text": "away, look at the task,"
+    },
+    {
+        "chunk_id": 35,
+        "time": "105-108",
+        "objects": [
+            "PEN",
+            "KEYBOARD"
+        ],
+        "participant_text": "pick up the switzer,"
+    },
+    {
+        "chunk_id": 36,
+        "time": "108-111",
+        "objects": [
+            "LAPTOP",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "close the box, pick up the paper,"
+    },
+    {
+        "chunk_id": 37,
+        "time": "111-114",
+        "objects": [
+            "LAPTOP",
+            "PEN",
+            "KEYBOARD"
+        ],
+        "participant_text": "cut the paper with the"
+    },
+    {
+        "chunk_id": 38,
+        "time": "114-117",
+        "objects": [
+            "LAPTOP",
+            "PEN",
+            "KEYBOARD"
+        ],
+        "participant_text": "the swissier cutting paper"
+    },
+    {
+        "chunk_id": 39,
+        "time": "117-120",
+        "objects": [
+            "LAPTOP",
+            "PEN",
+            "KEYBOARD"
+        ],
+        "participant_text": "paper with swissier"
+    },
+    {
+        "chunk_id": 40,
+        "time": "120-123",
+        "objects": [
+            "LAPTOP",
+            "PEN",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "swissier cutting paper with swissier"
+    },
+    {
+        "chunk_id": 41,
+        "time": "123-126",
+        "objects": [
+            "LAPTOP",
+            "PEN",
+            "KEYBOARD"
+        ],
+        "participant_text": "swissier cutting paper with"
+    },
+    {
+        "chunk_id": 42,
+        "time": "126-129",
+        "objects": [
+            "LAPTOP",
+            "PEN",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "with swissier"
+    },
+    {
+        "chunk_id": 43,
+        "time": "129-132",
+        "objects": [
+            "LAPTOP",
+            "PEN",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "swissier cutting paper with"
+    },
+    {
+        "chunk_id": 44,
+        "time": "132-135",
+        "objects": [
+            "PEN",
+            "KEYBOARD"
+        ],
+        "participant_text": "swissier turn around the paper cutting"
+    },
+    {
+        "chunk_id": 45,
+        "time": "135-138",
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "cutting paper with swissier cutting"
+    },
+    {
+        "chunk_id": 46,
+        "time": "138-141",
+        "objects": [
+            "PEN",
+            "KEYBOARD"
+        ],
+        "participant_text": "cutting paper with swissier"
+    },
+    {
+        "chunk_id": 47,
+        "time": "141-144",
+        "objects": [
+            "PEN",
+            "SCISSORS",
+            "KEYBOARD",
+            "LAPTOP",
+            "MONITOR"
+        ],
+        "participant_text": "swissier cutting paper with swissier"
+    },
+    {
+        "chunk_id": 48,
+        "time": "144-147",
+        "objects": [
+            "PEN",
+            "SCISSORS",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "Put the paper away, put"
+    },
+    {
+        "chunk_id": 49,
+        "time": "147-150",
+        "objects": [
+            "BOX",
+            "PEN",
+            "SCISSORS",
+            "KEYBOARD",
+            "MONITOR"
+        ],
+        "participant_text": "put the scissor away, put the paper away,"
+    },
+    {
+        "chunk_id": 50,
+        "time": "150-153",
+        "objects": [
+            "LAPTOP",
+            "MEASURING_TAPE",
+            "KEYBOARD",
+            "SCISSORS"
+        ],
+        "participant_text": "looking at the task, open"
+    },
+    {
+        "chunk_id": 51,
+        "time": "153-156",
+        "objects": [
+            "PEN",
+            "MEASURING_TAPE",
+            "KEYBOARD",
+            "LAPTOP",
+            "MONITOR"
+        ],
+        "participant_text": "open the box, pick up the measuring"
+    },
+    {
+        "chunk_id": 52,
+        "time": "156-159",
+        "objects": [
+            "BOX",
+            "SCISSORS",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "measuring tape, close the box, pick"
+    },
+    {
+        "chunk_id": 53,
+        "time": "159-162",
+        "objects": [
+            "PEN",
+            "BOX",
+            "SCISSORS",
+            "KEYBOARD",
+            "LAPTOP",
+            "MONITOR"
+        ],
+        "participant_text": "pick up another paper, pick"
+    },
+    {
+        "chunk_id": 54,
+        "time": "162-165",
+        "objects": [
+            "PEN",
+            "BOX",
+            "SCISSORS",
+            "KEYBOARD",
+            "MONITOR"
+        ],
+        "participant_text": "pick up the pen,"
+    },
+    {
+        "chunk_id": 55,
+        "time": "165-168",
+        "objects": [
+            "PEN",
+            "SCISSORS",
+            "KEYBOARD",
+            "BOX"
+        ],
+        "participant_text": "closing the box."
+    },
+    {
+        "chunk_id": 56,
+        "time": "168-171",
+        "objects": [
+            "PEN",
+            "SCISSORS",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "[Propagated] closing the box."
+    },
+    {
+        "chunk_id": 57,
+        "time": "171-174",
+        "objects": [
+            "PEN",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "measuring the monitor"
+    },
+    {
+        "chunk_id": 58,
+        "time": "174-177",
+        "objects": [
+            "PEN",
+            "BOX",
+            "KEYBOARD",
+            "MONITOR"
+        ],
+        "participant_text": "monitor with the tape measuring"
+    },
+    {
+        "chunk_id": 59,
+        "time": "177-180",
+        "objects": [
+            "PEN",
+            "BOX",
+            "SCISSORS",
+            "KEYBOARD",
+            "MONITOR"
+        ],
+        "participant_text": "measuring the monitor with the tape"
+    },
+    {
+        "chunk_id": 60,
+        "time": "180-183",
+        "objects": [
+            "PEN",
+            "BOX",
+            "MEASURING_TAPE",
+            "SCISSORS",
+            "KEYBOARD",
+            "MONITOR"
+        ],
+        "participant_text": "write the measure screen"
+    },
+    {
+        "chunk_id": 61,
+        "time": "183-186",
+        "objects": [
+            "PEN",
+            "BOX",
+            "SCISSORS",
+            "KEYBOARD",
+            "MONITOR"
+        ],
+        "participant_text": "screen on the paper write the"
+    },
+    {
+        "chunk_id": 62,
+        "time": "186-189",
+        "objects": [
+            "BOX",
+            "SCISSORS",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "the measure screen on the paper measuring the screen with"
+    },
+    {
+        "chunk_id": 63,
+        "time": "189-192",
+        "objects": [
+            "PEN",
+            "SCISSORS",
+            "MEASURING_TAPE",
+            "KEYBOARD",
+            "MONITOR"
+        ],
+        "participant_text": "with the tape measuring the"
+    },
+    {
+        "chunk_id": 64,
+        "time": "192-195",
+        "objects": [
+            "PEN",
+            "SCISSORS",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "the monitor"
+    },
+    {
+        "chunk_id": 65,
+        "time": "195-198",
+        "objects": [
+            "PEN",
+            "MEASURING_TAPE",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "writing on the paper measuring"
+    },
+    {
+        "chunk_id": 66,
+        "time": "198-201",
+        "objects": [
+            "PEN",
+            "SCISSORS",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "measuring the screen with tape"
+    },
+    {
+        "chunk_id": 67,
+        "time": "201-204",
+        "objects": [
+            "PEN",
+            "BOX",
+            "SCISSORS",
+            "KEYBOARD",
+            "LAPTOP",
+            "MONITOR"
+        ],
+        "participant_text": "[Propagated] measuring the screen with tape"
+    },
+    {
+        "chunk_id": 68,
+        "time": "204-207",
+        "objects": [
+            "PEN",
+            "SCISSORS",
+            "KEYBOARD",
+            "MONITOR",
+            "CARTON"
+        ],
+        "participant_text": "writing on the paper open"
+    },
+    {
+        "chunk_id": 69,
+        "time": "207-210",
+        "objects": [
+            "PEN",
+            "BOX",
+            "SCISSORS",
+            "MEASURING_TAPE",
+            "KEYBOARD",
+            "LAPTOP",
+            "MONITOR"
+        ],
+        "participant_text": "open the box"
+    },
+    {
+        "chunk_id": 70,
+        "time": "210-213",
+        "objects": [
+            "PEN",
+            "SCISSORS",
+            "MONITOR",
+            "KEYBOARD"
+        ],
+        "participant_text": "box put the pen away, put the tape"
+    },
+    {
+        "chunk_id": 71,
+        "time": "213-216",
+        "objects": [
+            "LAPTOP",
+            "BOX",
+            "KEYBOARD"
+        ],
+        "participant_text": "tape away closing the box look"
+    },
+    {
+        "chunk_id": 72,
+        "time": "216-219",
+        "objects": [
+            "BOX"
+        ],
+        "participant_text": "look at the task,"
+    },
+    {
+        "chunk_id": 73,
+        "time": "219-222",
+        "objects": [],
+        "participant_text": "turn away stand up doing"
+    },
+    {
+        "chunk_id": 74,
+        "time": "222-225",
+        "objects": [
+            "PEN",
+            "MEASURING_TAPE",
+            "BOX",
+            "SCISSORS"
+        ],
+        "participant_text": "doing a squat, doing a squat"
+    },
+    {
+        "chunk_id": 75,
+        "time": "225-228",
+        "objects": [
+            "BOX"
+        ],
+        "participant_text": "squat doing a squat, doing a"
+    },
+    {
+        "chunk_id": 76,
+        "time": "228-231",
+        "objects": [
+            "BOX",
+            "SCISSORS",
+            "KEYBOARD",
+            "LAPTOP",
+            "MONITOR"
+        ],
+        "participant_text": "a squat, doing a squat, looking"
+    },
+    {
+        "chunk_id": 77,
+        "time": "231-234",
+        "objects": [],
+        "participant_text": "looking the"
+    },
+    {
+        "chunk_id": 78,
+        "time": "234-237",
+        "objects": [
+            "BOX",
+            "PEN",
+            "SCISSORS",
+            "LAPTOP",
+            "TRASH CAN"
+        ],
+        "participant_text": "task, pick up the book,"
+    },
+    {
+        "chunk_id": 79,
+        "time": "237-240",
+        "objects": [
+            "BOX",
+            "TRASH CAN"
+        ],
+        "participant_text": "put down the book, open the box,"
+    },
+    {
+        "chunk_id": 80,
+        "time": "240-243",
+        "objects": [
+            "BOX",
+            "TRASH CAN"
+        ],
+        "participant_text": "open the box, pick"
+    },
+    {
+        "chunk_id": 81,
+        "time": "243-246",
+        "objects": [
+            "PEN",
+            "SCISSORS",
+            "TRASH CAN",
+            "BOX"
+        ],
+        "participant_text": "pick up the shredder, pick up the shredder,"
+    },
+    {
+        "chunk_id": 82,
+        "time": "246-249",
+        "objects": [
+            "BOX"
+        ],
+        "participant_text": "shredder,"
+    },
+    {
+        "chunk_id": 83,
+        "time": "249-252",
+        "objects": [
+            "LAPTOP",
+            "BOX",
+            "TRASH CAN"
+        ],
+        "participant_text": "bring shredder out put"
+    },
+    {
+        "chunk_id": 84,
+        "time": "252-255",
+        "objects": [
+            "LAPTOP",
+            "PEN",
+            "KEYBOARD",
+            "BOX"
+        ],
+        "participant_text": "put away the box"
+    },
+    {
+        "chunk_id": 85,
+        "time": "255-258",
+        "objects": [
+            "LAPTOP",
+            "PEN",
+            "SCISSORS",
+            "BOX"
+        ],
+        "participant_text": "box plug the shredder in the"
+    },
+    {
+        "chunk_id": 86,
+        "time": "258-261",
+        "objects": [
+            "BOX"
+        ],
+        "participant_text": "the power"
+    },
+    {
+        "chunk_id": 87,
+        "time": "261-264",
+        "objects": [
+            "PEN",
+            "BOX",
+            "SCISSORS",
+            "KEYBOARD",
+            "LAPTOP",
+            "MONITOR"
+        ],
+        "participant_text": "turn the shredder"
+    },
+    {
+        "chunk_id": 88,
+        "time": "264-267",
+        "objects": [
+            "LAPTOP",
+            "BOX",
+            "KEYBOARD"
+        ],
+        "participant_text": "on pick"
+    },
+    {
+        "chunk_id": 89,
+        "time": "267-270",
+        "objects": [
+            "BOX"
+        ],
+        "participant_text": "pick up the paper"
+    },
+    {
+        "chunk_id": 90,
+        "time": "270-273",
+        "objects": [
+            "LAPTOP",
+            "BOX"
+        ],
+        "participant_text": "shred the paper with the shredder shred"
+    },
+    {
+        "chunk_id": 91,
+        "time": "273-276",
+        "objects": [
+            "BOX"
+        ],
+        "participant_text": "shred the paper with the shredder"
+    },
+    {
+        "chunk_id": 92,
+        "time": "276-279",
+        "objects": [
+            "BOX"
+        ],
+        "participant_text": "shred the paper with"
+    },
+    {
+        "chunk_id": 93,
+        "time": "279-282",
+        "objects": [
+            "LAPTOP",
+            "PEN",
+            "SCISSORS",
+            "KEYBOARD"
+        ],
+        "participant_text": "with shredder waiting waiting"
+    },
+    {
+        "chunk_id": 94,
+        "time": "282-285",
+        "objects": [
+            "LAPTOP",
+            "BOX",
+            "SCISSORS"
+        ],
+        "participant_text": "waiting"
+    },
+    {
+        "chunk_id": 95,
+        "time": "285-288",
+        "objects": [
+            "LAPTOP",
+            "SCISSORS"
+        ],
+        "participant_text": "pick up the another paper"
+    },
+    {
+        "chunk_id": 96,
+        "time": "288-291",
+        "objects": [
+            "BOX",
+            "PEN"
+        ],
+        "participant_text": "paper"
+    },
+    {
+        "chunk_id": 97,
+        "time": "291-294",
+        "objects": [
+            "BOX"
+        ],
+        "participant_text": "shred the paper with"
+    },
+    {
+        "chunk_id": 98,
+        "time": "294-297",
+        "objects": [
+            "BOX"
+        ],
+        "participant_text": "with the shredder shred"
+    },
+    {
+        "chunk_id": 99,
+        "time": "297-300",
+        "objects": [],
+        "participant_text": "shred the paper with the shredder"
+    },
+    {
+        "chunk_id": 100,
+        "time": "300-303",
+        "objects": [
+            "BOX"
+        ],
+        "participant_text": "[Propagated] rating rating"
+    },
+    {
+        "chunk_id": 101,
+        "time": "303-306",
+        "objects": [
+            "BOX"
+        ],
+        "participant_text": "waiting"
+    },
+    {
+        "chunk_id": 102,
+        "time": "306-309",
+        "objects": [
+            "LAPTOP",
+            "BOX",
+            "KEYBOARD"
+        ],
+        "participant_text": "waiting"
+    }
+]
