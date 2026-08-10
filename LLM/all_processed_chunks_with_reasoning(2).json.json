@@ -1,0 +1,1279 @@
+[
+    {
+        "chunk_id": 0,
+        "start_time": "0:00",
+        "end_time": "0:03",
+        "low_level_actions": [
+            {
+                "verb": "LOOK_AT_OBJECT",
+                "object": "MONITOR"
+            },
+            {
+                "verb": "LOOK_AT_OBJECT",
+                "object": "KEYBOARD"
+            }
+        ],
+        "high_level_task": "looking on the paper"
+    },
+    {
+        "chunk_id": 1,
+        "start_time": "0:03",
+        "end_time": "0:06",
+        "low_level_actions": [
+            {
+                "verb": "STAND_UP",
+                "object": null
+            },
+            {
+                "verb": "LOOK_AT_OBJECT",
+                "object": "MONITOR"
+            },
+            {
+                "verb": "LOOK_AT_OBJECT",
+                "object": "KEYBOARD"
+            }
+        ],
+        "high_level_task": "looking on the paper"
+    },
+    {
+        "chunk_id": 2,
+        "start_time": "0:06",
+        "end_time": "0:09",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "KEYBOARD"
+            }
+        ],
+        "high_level_task": "typing on the keyboard"
+    },
+    {
+        "chunk_id": 3,
+        "start_time": "0:09",
+        "end_time": "0:12",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "KEYBOARD"
+            }
+        ],
+        "high_level_task": "typing on the keyboard"
+    },
+    {
+        "chunk_id": 4,
+        "start_time": "0:12",
+        "end_time": "0:15",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "KEYBOARD"
+            }
+        ],
+        "high_level_task": "typing on the keyboard"
+    },
+    {
+        "chunk_id": 5,
+        "start_time": "0:15",
+        "end_time": "0:18",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "KEYBOARD"
+            }
+        ],
+        "high_level_task": "typing on the keyboard"
+    },
+    {
+        "chunk_id": 6,
+        "start_time": "0:18",
+        "end_time": "0:21",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "KEYBOARD"
+            }
+        ],
+        "high_level_task": "typing on the keyboard"
+    },
+    {
+        "chunk_id": 7,
+        "start_time": "0:21",
+        "end_time": "0:24",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "KEYBOARD"
+            }
+        ],
+        "high_level_task": "typing on the keyboard"
+    },
+    {
+        "chunk_id": 8,
+        "start_time": "0:24",
+        "end_time": "0:27",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "KEYBOARD"
+            }
+        ],
+        "high_level_task": "typing on the keyboard"
+    },
+    {
+        "chunk_id": 9,
+        "start_time": "0:27",
+        "end_time": "0:30",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "KEYBOARD"
+            }
+        ],
+        "high_level_task": "typing on the keyboard"
+    },
+    {
+        "chunk_id": 10,
+        "start_time": "0:30",
+        "end_time": "0:33",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "KEYBOARD"
+            }
+        ],
+        "high_level_task": "typing on the keyboard"
+    },
+    {
+        "chunk_id": 11,
+        "start_time": "0:33",
+        "end_time": "0:36",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "KEYBOARD"
+            }
+        ],
+        "high_level_task": "typing on the keyboard"
+    },
+    {
+        "chunk_id": 12,
+        "start_time": "0:36",
+        "end_time": "0:39",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "KEYBOARD"
+            }
+        ],
+        "high_level_task": "typing on the keyboard"
+    },
+    {
+        "chunk_id": 13,
+        "start_time": "0:39",
+        "end_time": "0:42",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "KEYBOARD"
+            }
+        ],
+        "high_level_task": "typing on the keyboard"
+    },
+    {
+        "chunk_id": 14,
+        "start_time": "0:42",
+        "end_time": "0:45",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "KEYBOARD"
+            }
+        ],
+        "high_level_task": "typing on the keyboard"
+    },
+    {
+        "chunk_id": 15,
+        "start_time": "0:45",
+        "end_time": "0:48",
+        "low_level_actions": [
+            {
+                "verb": "LOOK_AT_OBJECT",
+                "object": "PAPER"
+            }
+        ],
+        "high_level_task": "looking to task"
+    },
+    {
+        "chunk_id": 16,
+        "start_time": "0:48",
+        "end_time": "0:51",
+        "low_level_actions": [
+            {
+                "verb": "PICK_UP_OBJECT",
+                "object": "PAPER"
+            },
+            {
+                "verb": "OPEN_BOX",
+                "object": null
+            }
+        ],
+        "high_level_task": "pick of paper"
+    },
+    {
+        "chunk_id": 17,
+        "start_time": "0:51",
+        "end_time": "0:54",
+        "low_level_actions": [
+            {
+                "verb": "PICK_UP_OBJECT",
+                "object": "PEN"
+            }
+        ],
+        "high_level_task": "pick of paper"
+    },
+    {
+        "chunk_id": 18,
+        "start_time": "0:54",
+        "end_time": "0:57",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "PAPER"
+            }
+        ],
+        "high_level_task": "writing on paper"
+    },
+    {
+        "chunk_id": 19,
+        "start_time": "0:57",
+        "end_time": "1:00",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "PAPER"
+            }
+        ],
+        "high_level_task": "writing on paper"
+    },
+    {
+        "chunk_id": 20,
+        "start_time": "1:00",
+        "end_time": "1:03",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "PEN"
+            }
+        ],
+        "high_level_task": "writing on paper"
+    },
+    {
+        "chunk_id": 21,
+        "start_time": "1:03",
+        "end_time": "1:06",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "PEN"
+            }
+        ],
+        "high_level_task": "writing on paper"
+    },
+    {
+        "chunk_id": 22,
+        "start_time": "1:06",
+        "end_time": "1:09",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "PEN"
+            }
+        ],
+        "high_level_task": "writing on paper"
+    },
+    {
+        "chunk_id": 23,
+        "start_time": "1:09",
+        "end_time": "1:12",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "PEN"
+            }
+        ],
+        "high_level_task": "writing on paper"
+    },
+    {
+        "chunk_id": 24,
+        "start_time": "1:12",
+        "end_time": "1:15",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "PEN"
+            }
+        ],
+        "high_level_task": "writing on paper"
+    },
+    {
+        "chunk_id": 25,
+        "start_time": "1:15",
+        "end_time": "1:18",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "PEN"
+            }
+        ],
+        "high_level_task": "writing on paper"
+    },
+    {
+        "chunk_id": 26,
+        "start_time": "1:18",
+        "end_time": "1:21",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "PEN"
+            }
+        ],
+        "high_level_task": "writing on paper"
+    },
+    {
+        "chunk_id": 27,
+        "start_time": "1:21",
+        "end_time": "1:24",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "PEN"
+            }
+        ],
+        "high_level_task": "writing on paper"
+    },
+    {
+        "chunk_id": 28,
+        "start_time": "1:24",
+        "end_time": "1:27",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "PEN"
+            }
+        ],
+        "high_level_task": "writing on paper"
+    },
+    {
+        "chunk_id": 29,
+        "start_time": "1:27",
+        "end_time": "1:30",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "PEN"
+            }
+        ],
+        "high_level_task": "writing on paper"
+    },
+    {
+        "chunk_id": 30,
+        "start_time": "1:30",
+        "end_time": "1:33",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "PEN"
+            }
+        ],
+        "high_level_task": "writing on paper"
+    },
+    {
+        "chunk_id": 31,
+        "start_time": "1:33",
+        "end_time": "1:36",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "PEN"
+            }
+        ],
+        "high_level_task": "writing on paper"
+    },
+    {
+        "chunk_id": 32,
+        "start_time": "1:36",
+        "end_time": "1:39",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "PEN"
+            }
+        ],
+        "high_level_task": "writing on paper"
+    },
+    {
+        "chunk_id": 33,
+        "start_time": "1:39",
+        "end_time": "1:42",
+        "low_level_actions": [
+            {
+                "verb": "RELEASE_OBJECT",
+                "object": "PEN"
+            }
+        ],
+        "high_level_task": "put the pen away"
+    },
+    {
+        "chunk_id": 34,
+        "start_time": "1:42",
+        "end_time": "1:45",
+        "low_level_actions": [
+            {
+                "verb": "LOOK_AT_OBJECT",
+                "object": "KEYBOARD"
+            },
+            {
+                "verb": "LOOK_AT_OBJECT",
+                "object": "MONITOR"
+            }
+        ],
+        "high_level_task": "look at the task"
+    },
+    {
+        "chunk_id": 35,
+        "start_time": "1:45",
+        "end_time": "1:48",
+        "low_level_actions": [
+            {
+                "verb": "PICK_UP_OBJECT",
+                "object": "PEN"
+            }
+        ],
+        "high_level_task": "pick up the switzer"
+    },
+    {
+        "chunk_id": 36,
+        "start_time": "1:48",
+        "end_time": "1:51",
+        "low_level_actions": [
+            {
+                "verb": "PICK_UP_OBJECT",
+                "object": "PAPER"
+            },
+            {
+                "verb": "CLOSE_BOX",
+                "object": "BOX"
+            }
+        ],
+        "high_level_task": "close the box"
+    },
+    {
+        "chunk_id": 37,
+        "start_time": "1:51",
+        "end_time": "1:54",
+        "low_level_actions": [
+            {
+                "verb": "CUT",
+                "object": "PAPER"
+            }
+        ],
+        "high_level_task": "cut the paper"
+    },
+    {
+        "chunk_id": 38,
+        "start_time": "1:54",
+        "end_time": "1:57",
+        "low_level_actions": [
+            {
+                "verb": "CUT",
+                "object": "PAPER"
+            }
+        ],
+        "high_level_task": "cut the paper"
+    },
+    {
+        "chunk_id": 39,
+        "start_time": "1:57",
+        "end_time": "2:00",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "PAPER"
+            }
+        ],
+        "high_level_task": "write on paper"
+    },
+    {
+        "chunk_id": 40,
+        "start_time": "2:00",
+        "end_time": "2:03",
+        "low_level_actions": [
+            {
+                "verb": "CUT",
+                "object": "PAPER"
+            }
+        ],
+        "high_level_task": "cutting paper with scissors"
+    },
+    {
+        "chunk_id": 41,
+        "start_time": "2:03",
+        "end_time": "2:06",
+        "low_level_actions": [
+            {
+                "verb": "CUT",
+                "object": "PAPER"
+            }
+        ],
+        "high_level_task": "cutting paper with scissors"
+    },
+    {
+        "chunk_id": 42,
+        "start_time": "2:06",
+        "end_time": "2:09",
+        "low_level_actions": [
+            {
+                "verb": "CUT",
+                "object": "PAPER"
+            }
+        ],
+        "high_level_task": "cutting paper with scissors"
+    },
+    {
+        "chunk_id": 43,
+        "start_time": "2:09",
+        "end_time": "2:12",
+        "low_level_actions": [
+            {
+                "verb": "CUT",
+                "object": "PAPER"
+            }
+        ],
+        "high_level_task": "cutting paper with scissors"
+    },
+    {
+        "chunk_id": 44,
+        "start_time": "2:12",
+        "end_time": "2:15",
+        "low_level_actions": [
+            {
+                "verb": "PUT_DOWN_OBJECT",
+                "object": "PAPER"
+            }
+        ],
+        "high_level_task": "put the paper away"
+    },
+    {
+        "chunk_id": 45,
+        "start_time": "2:15",
+        "end_time": "2:18",
+        "low_level_actions": [
+            {
+                "verb": "PUT_DOWN_OBJECT",
+                "object": "PAPER"
+            }
+        ],
+        "high_level_task": "put the paper away"
+    },
+    {
+        "chunk_id": 46,
+        "start_time": "2:18",
+        "end_time": "2:21",
+        "low_level_actions": [
+            {
+                "verb": "PUT_DOWN_OBJECT",
+                "object": "PAPER"
+            }
+        ],
+        "high_level_task": "put the paper away"
+    },
+    {
+        "chunk_id": 47,
+        "start_time": "2:21",
+        "end_time": "2:24",
+        "low_level_actions": [
+            {
+                "verb": "PUT_DOWN_OBJECT",
+                "object": "PAPER"
+            }
+        ],
+        "high_level_task": "put the paper away"
+    },
+    {
+        "chunk_id": 48,
+        "start_time": "2:24",
+        "end_time": "2:27",
+        "low_level_actions": [
+            {
+                "verb": "PUT_DOWN_OBJECT",
+                "object": "BOX"
+            },
+            {
+                "verb": "PUT_DOWN_OBJECT",
+                "object": "PAPER"
+            }
+        ],
+        "high_level_task": "put the box away, put the paper away"
+    },
+    {
+        "chunk_id": 49,
+        "start_time": "2:27",
+        "end_time": "2:30",
+        "low_level_actions": [
+            {
+                "verb": "PUT_DOWN_OBJECT",
+                "object": "BOX"
+            },
+            {
+                "verb": "PUT_DOWN_OBJECT",
+                "object": "PAPER"
+            }
+        ],
+        "high_level_task": "put the box away, put the paper away"
+    },
+    {
+        "chunk_id": 50,
+        "start_time": "2:30",
+        "end_time": "2:33",
+        "low_level_actions": [
+            {
+                "verb": "LOOK_AT_OBJECT",
+                "object": "MONITOR"
+            }
+        ],
+        "high_level_task": "looking at the monitor"
+    },
+    {
+        "chunk_id": 51,
+        "start_time": "2:33",
+        "end_time": "2:36",
+        "low_level_actions": [
+            {
+                "verb": "OPEN_BOX",
+                "object": "BOX"
+            },
+            {
+                "verb": "PICK_UP_OBJECT",
+                "object": "MEASURING_TAPE"
+            }
+        ],
+        "high_level_task": "opening the box and picking up the measuring tape"
+    },
+    {
+        "chunk_id": 52,
+        "start_time": "2:36",
+        "end_time": "2:39",
+        "low_level_actions": [
+            {
+                "verb": "CLOSE_BOX",
+                "object": "BOX"
+            }
+        ],
+        "high_level_task": "closing the box"
+    },
+    {
+        "chunk_id": 53,
+        "start_time": "2:39",
+        "end_time": "2:42",
+        "low_level_actions": [
+            {
+                "verb": "PICK_UP_OBJECT",
+                "object": "PEN"
+            }
+        ],
+        "high_level_task": "picking up the pen"
+    },
+    {
+        "chunk_id": 54,
+        "start_time": "2:42",
+        "end_time": "2:45",
+        "low_level_actions": [
+            {
+                "verb": "PICK_UP_OBJECT",
+                "object": "PEN"
+            }
+        ],
+        "high_level_task": "picking up the pen again"
+    },
+    {
+        "chunk_id": 55,
+        "start_time": "2:45",
+        "end_time": "2:48",
+        "low_level_actions": [
+            {
+                "verb": "CLOSE_BOX",
+                "object": "BOX"
+            }
+        ],
+        "high_level_task": "closing the box again"
+    },
+    {
+        "chunk_id": 56,
+        "start_time": "2:48",
+        "end_time": "2:51",
+        "low_level_actions": [
+            {
+                "verb": "CLOSE_BOX",
+                "object": "BOX"
+            }
+        ],
+        "high_level_task": "closing the box again (propagated)"
+    },
+    {
+        "chunk_id": 57,
+        "start_time": "2:51",
+        "end_time": "2:54",
+        "low_level_actions": [
+            {
+                "verb": "LOOK_AT_OBJECT",
+                "object": "MONITOR"
+            }
+        ],
+        "high_level_task": "looking at the monitor (propagated)"
+    },
+    {
+        "chunk_id": 58,
+        "start_time": "2:54",
+        "end_time": "2:57",
+        "low_level_actions": [
+            {
+                "verb": "MEASURE",
+                "object": "MONITOR"
+            }
+        ],
+        "high_level_task": "measuring the monitor"
+    },
+    {
+        "chunk_id": 59,
+        "start_time": "2:57",
+        "end_time": "3:00",
+        "low_level_actions": [
+            {
+                "verb": "MEASURE",
+                "object": "MONITOR"
+            }
+        ],
+        "high_level_task": "measuring the monitor again"
+    },
+    {
+        "chunk_id": 60,
+        "start_time": "3:00",
+        "end_time": "3:03",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "MONITOR"
+            }
+        ],
+        "high_level_task": "writing on paper"
+    },
+    {
+        "chunk_id": 61,
+        "start_time": "3:03",
+        "end_time": "3:06",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "MONITOR"
+            }
+        ],
+        "high_level_task": "writing on paper"
+    },
+    {
+        "chunk_id": 62,
+        "start_time": "3:06",
+        "end_time": "3:09",
+        "low_level_actions": [
+            {
+                "verb": "MEASURE",
+                "object": "MONITOR"
+            }
+        ],
+        "high_level_task": "measuring the screen"
+    },
+    {
+        "chunk_id": 63,
+        "start_time": "3:09",
+        "end_time": "3:12",
+        "low_level_actions": [
+            {
+                "verb": "MEASURE",
+                "object": "MONITOR"
+            }
+        ],
+        "high_level_task": "measuring the screen"
+    },
+    {
+        "chunk_id": 64,
+        "start_time": "3:12",
+        "end_time": "3:15",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "MONITOR"
+            }
+        ],
+        "high_level_task": "writing on paper"
+    },
+    {
+        "chunk_id": 65,
+        "start_time": "3:15",
+        "end_time": "3:18",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "MONITOR"
+            }
+        ],
+        "high_level_task": "writing on paper"
+    },
+    {
+        "chunk_id": 66,
+        "start_time": "3:18",
+        "end_time": "3:21",
+        "low_level_actions": [
+            {
+                "verb": "MEASURE",
+                "object": "MONITOR"
+            }
+        ],
+        "high_level_task": "measuring the screen"
+    },
+    {
+        "chunk_id": 67,
+        "start_time": "3:21",
+        "end_time": "3:24",
+        "low_level_actions": [
+            {
+                "verb": "OPEN_BOX",
+                "object": "BOX"
+            }
+        ],
+        "high_level_task": "open the box"
+    },
+    {
+        "chunk_id": 68,
+        "start_time": "3:24",
+        "end_time": "3:27",
+        "low_level_actions": [
+            {
+                "verb": "WRITE",
+                "object": "MONITOR"
+            }
+        ],
+        "high_level_task": "writing on paper"
+    },
+    {
+        "chunk_id": 69,
+        "start_time": "3:27",
+        "end_time": "3:30",
+        "low_level_actions": [
+            {
+                "verb": "OPEN_BOX",
+                "object": "BOX"
+            }
+        ],
+        "high_level_task": "open the box"
+    },
+    {
+        "chunk_id": 70,
+        "start_time": "3:30",
+        "end_time": "3:33",
+        "low_level_actions": [
+            {
+                "verb": "PICK_UP_OBJECT",
+                "object": "PEN"
+            },
+            {
+                "verb": "PUT_DOWN_OBJECT",
+                "object": "PEN"
+            },
+            {
+                "verb": "CLOSE_BOX",
+                "object": "BOX"
+            }
+        ],
+        "high_level_task": "pick of paper"
+    },
+    {
+        "chunk_id": 71,
+        "start_time": "3:33",
+        "end_time": "3:36",
+        "low_level_actions": [
+            {
+                "verb": "CLOSE_BOX",
+                "object": "BOX"
+            }
+        ],
+        "high_level_task": "pick of paper"
+    },
+    {
+        "chunk_id": 72,
+        "start_time": "3:36",
+        "end_time": "3:39",
+        "low_level_actions": [
+            {
+                "verb": "LOOK_AT_OBJECT",
+                "object": "BOX"
+            }
+        ],
+        "high_level_task": "looking to task"
+    },
+    {
+        "chunk_id": 73,
+        "start_time": "3:39",
+        "end_time": "3:42",
+        "low_level_actions": [
+            {
+                "verb": "STAND_UP",
+                "object": null
+            }
+        ],
+        "high_level_task": "waiting"
+    },
+    {
+        "chunk_id": 74,
+        "start_time": "3:42",
+        "end_time": "3:45",
+        "low_level_actions": [
+            {
+                "verb": "DO_SQUAT",
+                "object": null
+            }
+        ],
+        "high_level_task": "squat"
+    },
+    {
+        "chunk_id": 75,
+        "start_time": "3:45",
+        "end_time": "3:48",
+        "low_level_actions": [
+            {
+                "verb": "DO_SQUAT",
+                "object": null
+            }
+        ],
+        "high_level_task": "squat"
+    },
+    {
+        "chunk_id": 76,
+        "start_time": "3:48",
+        "end_time": "3:51",
+        "low_level_actions": [
+            {
+                "verb": "LOOK_AT_OBJECT",
+                "object": "BOX"
+            }
+        ],
+        "high_level_task": "looking to task"
+    },
+    {
+        "chunk_id": 77,
+        "start_time": "3:51",
+        "end_time": "3:54",
+        "low_level_actions": [],
+        "high_level_task": "waiting"
+    },
+    {
+        "chunk_id": 78,
+        "start_time": "3:54",
+        "end_time": "3:57",
+        "low_level_actions": [
+            {
+                "verb": "PICK_UP_OBJECT",
+                "object": "BOX"
+            },
+            {
+                "verb": "PUT_DOWN_OBJECT",
+                "object": "BOX"
+            }
+        ],
+        "high_level_task": "pick of paper"
+    },
+    {
+        "chunk_id": 79,
+        "start_time": "3:57",
+        "end_time": "4:00",
+        "low_level_actions": [
+            {
+                "verb": "OPEN_BOX",
+                "object": "BOX"
+            }
+        ],
+        "high_level_task": "pick of paper"
+    },
+    {
+        "chunk_id": 80,
+        "start_time": "4:00",
+        "end_time": "4:03",
+        "low_level_actions": [
+            {
+                "verb": "OPEN_BOX",
+                "object": "BOX"
+            },
+            {
+                "verb": "PICK_UP_OBJECT",
+                "object": "BOX"
+            }
+        ],
+        "high_level_task": "pick up the box"
+    },
+    {
+        "chunk_id": 81,
+        "start_time": "4:03",
+        "end_time": "4:06",
+        "low_level_actions": [
+            {
+                "verb": "PICK_UP_OBJECT",
+                "object": "SCISSORS"
+            },
+            {
+                "verb": "PICK_UP_OBJECT",
+                "object": "SCISSORS"
+            }
+        ],
+        "high_level_task": "pick up the scissors"
+    },
+    {
+        "chunk_id": 82,
+        "start_time": "4:06",
+        "end_time": "4:09",
+        "low_level_actions": [],
+        "high_level_task": "waiting"
+    },
+    {
+        "chunk_id": 83,
+        "start_time": "4:09",
+        "end_time": "4:12",
+        "low_level_actions": [
+            {
+                "verb": "PLACE_ON_SURFACE",
+                "object": "BOX"
+            }
+        ],
+        "high_level_task": "put away the box"
+    },
+    {
+        "chunk_id": 84,
+        "start_time": "4:12",
+        "end_time": "4:15",
+        "low_level_actions": [
+            {
+                "verb": "PLACE_IN_CONTAINER",
+                "object": "BOX"
+            }
+        ],
+        "high_level_task": "put away the box"
+    },
+    {
+        "chunk_id": 85,
+        "start_time": "4:15",
+        "end_time": "4:18",
+        "low_level_actions": [
+            {
+                "verb": "PLUG_IN",
+                "object": "SHREDDER"
+            }
+        ],
+        "high_level_task": "plug shredder in the power"
+    },
+    {
+        "chunk_id": 86,
+        "start_time": "4:18",
+        "end_time": "4:21",
+        "low_level_actions": [
+            {
+                "verb": "TURN_KNOB",
+                "object": "SHREDDER"
+            }
+        ],
+        "high_level_task": "turn the shredder"
+    },
+    {
+        "chunk_id": 87,
+        "start_time": "4:21",
+        "end_time": "4:24",
+        "low_level_actions": [],
+        "high_level_task": "waiting"
+    },
+    {
+        "chunk_id": 88,
+        "start_time": "4:24",
+        "end_time": "4:27",
+        "low_level_actions": [
+            {
+                "verb": "PICK_UP_OBJECT",
+                "object": "BOX"
+            }
+        ],
+        "high_level_task": "pick up the box"
+    },
+    {
+        "chunk_id": 89,
+        "start_time": "4:27",
+        "end_time": "4:30",
+        "low_level_actions": [
+            {
+                "verb": "PICK_UP_OBJECT",
+                "object": "PAPER"
+            }
+        ],
+        "high_level_task": "pick up the paper"
+    },
+    {
+        "chunk_id": 90,
+        "start_time": "4:30",
+        "end_time": "4:33",
+        "low_level_actions": [
+            {
+                "verb": "SHRED",
+                "object": "BOX"
+            }
+        ],
+        "high_level_task": "shredding paper with shredder"
+    },
+    {
+        "chunk_id": 91,
+        "start_time": "4:33",
+        "end_time": "4:36",
+        "low_level_actions": [
+            {
+                "verb": "SHRED",
+                "object": "BOX"
+            }
+        ],
+        "high_level_task": "shredding paper with shredder"
+    },
+    {
+        "chunk_id": 92,
+        "start_time": "4:36",
+        "end_time": "4:39",
+        "low_level_actions": [
+            {
+                "verb": "SHRED",
+                "object": "BOX"
+            }
+        ],
+        "high_level_task": "shredding paper with shredder"
+    },
+    {
+        "chunk_id": 93,
+        "start_time": "4:39",
+        "end_time": "4:42",
+        "low_level_actions": [
+            {
+                "verb": "WAIT",
+                "object": null
+            }
+        ],
+        "high_level_task": "waiting"
+    },
+    {
+        "chunk_id": 94,
+        "start_time": "4:42",
+        "end_time": "4:45",
+        "low_level_actions": [
+            {
+                "verb": "PICK_UP_OBJECT",
+                "object": "PAPER"
+            }
+        ],
+        "high_level_task": "picking up paper"
+    },
+    {
+        "chunk_id": 95,
+        "start_time": "4:45",
+        "end_time": "4:48",
+        "low_level_actions": [
+            {
+                "verb": "PICK_UP_OBJECT",
+                "object": "PAPER"
+            }
+        ],
+        "high_level_task": "picking up paper"
+    },
+    {
+        "chunk_id": 96,
+        "start_time": "4:48",
+        "end_time": "4:51",
+        "low_level_actions": [
+            {
+                "verb": "SHRED",
+                "object": "BOX"
+            }
+        ],
+        "high_level_task": "shredding paper with shredder"
+    },
+    {
+        "chunk_id": 97,
+        "start_time": "4:51",
+        "end_time": "4:54",
+        "low_level_actions": [
+            {
+                "verb": "SHRED",
+                "object": "BOX"
+            }
+        ],
+        "high_level_task": "shredding paper with shredder"
+    },
+    {
+        "chunk_id": 98,
+        "start_time": "4:54",
+        "end_time": "4:57",
+        "low_level_actions": [
+            {
+                "verb": "SHRED",
+                "object": "BOX"
+            }
+        ],
+        "high_level_task": "shredding paper with shredder"
+    },
+    {
+        "chunk_id": 99,
+        "start_time": "4:57",
+        "end_time": "5:00",
+        "low_level_actions": [
+            {
+                "verb": "SHRED",
+                "object": "BOX"
+            }
+        ],
+        "high_level_task": "shredding paper with shredder"
+    },
+    {
+        "chunk_id": 100,
+        "start_time": "5:00",
+        "end_time": "5:03",
+        "low_level_actions": [
+            {
+                "verb": "RATE",
+                "object": "BOX"
+            }
+        ],
+        "high_level_task": "waiting"
+    },
+    {
+        "chunk_id": 101,
+        "start_time": "5:03",
+        "end_time": "5:06",
+        "low_level_actions": [
+            {
+                "verb": "RATE",
+                "object": "BOX"
+            }
+        ],
+        "high_level_task": "waiting"
+    },
+    {
+        "chunk_id": 102,
+        "start_time": "5:06",
+        "end_time": "5:09",
+        "low_level_actions": [
+            {
+                "verb": "TYPE",
+                "object": "KEYBOARD"
+            }
+        ],
+        "high_level_task": "waiting"
+    }
+]
