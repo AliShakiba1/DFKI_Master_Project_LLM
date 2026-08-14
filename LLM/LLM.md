@@ -88,3 +88,37 @@ The core of the pipeline processes the formatted dataset in batches and saves th
 
 
 * **Error Handling & Cleanup:** If a batch fails to parse as valid JSON, the error is caught, the batch index is recorded in `failed_batches`, and the script continues. After each batch, variables are deleted, and CUDA memory is emptied to prevent memory overflow.
+
+
+Here is the formatted section ready to be added to your documentation. I have rewritten your notes to match the professional, clear, and structured style of the existing pipeline document.
+
+---
+
+### 6. Pipeline Instructions
+
+#### Step 1 — Model Selection & Initialization
+
+In the first code block, you have the option to select from various models. It is highly recommended to use the default `"microsoft/Phi-3.5-mini-instruct"`, as it is the most optimized for this problem. Please note that this model requires approximately **8 GB of VRAM** once loaded into memory.
+
+#### Step 2 — Model Verification
+
+Before running your dataset, execute the testing block. This ensures that the model has loaded correctly, the tokenizer is working, and the reasoning extraction logic is functioning properly.
+
+#### Step 3 — System Prompt Configuration (Critical)
+
+The `SYSTEM_PROMPT_g` definition is the most important part of the pipeline. As noted in the Narration Documentation, **you must finalize your high-level and low-level task lists here before you record your audio narration**. Make sure your prompt is completely ready to ensure the vocabulary perfectly matches your recorded text.
+
+#### Step 4 — Batch Size and Token Limits
+
+The `batch_size` variable controls how many chunks are sent to the model simultaneously.
+
+* A default `batch_size` of **10** is optimal for this specific model and task complexity.
+* If you decide to increase the batch size to process more chunks at once, you **must** also increase the `max_new_tokens` parameter in the generation configuration. Otherwise, the model will run out of space and the JSON output will be cut off.
+
+#### Step 5 — Execution and JSON Extraction
+
+Run the final processing loop to iterate through all the chunks. Because the model generates unnecessary extraneous text (such as internal `<think>` tags and markdown formatting), this loop utilizes robust parsing logic to strip away the noise and strictly isolate, validate, and save only the final JSON array.
+
+#### Step 6 — Time Formatting Utility
+
+Execute the final utility code block (following the main processing loop). This function converts the raw seconds output in your JSON file into a more readable `min:sec` format for easier human review.
