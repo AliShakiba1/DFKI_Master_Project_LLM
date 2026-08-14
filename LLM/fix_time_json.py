@@ -25,7 +25,7 @@ def process_and_save_chunk_times(input_path, output_path):
     with open(output_path, 'w', encoding='utf-8') as file:
         json.dump(data, file, indent=4, ensure_ascii=False)
 
-# نحوه استفاده:
+
 # process_and_save_chunk_times("input_data.json", "updated_data.json")
 # برای اجرای کد، مسیر فایل خود را به تابع بدهید:
 process_and_save_chunk_times("all_processed_chunks_with_reasoning(2).json", "updated_chunks.json")
