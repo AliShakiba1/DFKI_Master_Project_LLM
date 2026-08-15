@@ -1,5 +1,6 @@
-
 # LLM Video Understanding & Activity Prediction Pipeline
+
+> ⚠️ **Usage Note:** At the very end of each component's individual documentation file (`Video_obj_detection.md`, `naration.md`, and `LLM.md`), you will find a dedicated section containing **Cautions** and step-by-step instructions on **How to Run** the included code blocks.
 
 This folder contains the core machine learning and natural language processing pipeline designed to process video recordings, perform zero-shot object detection, integrate verbal participant narrations, and leverage Large Language Models (LLMs) to predict actions and analyze behavior.
 
@@ -39,7 +40,6 @@ Processes raw video feeds and extracts core computer vision features.
 * **Efficient Seeking:** Reads only **1 frame per chunk** via fast-seeking, slashing I/O workload by **98.6%**.
 * **YOLOv8-World:** Detects workspace objects using a custom, targeted vocabulary.
 * **Taxonomy Normalization:** Standardizes varied text labels into clean uppercase categories (e.g., `MEASURING_TAPE`).
-
 
 ### **2. Narration Merging & Propagation (`naration.ipynb`)**
 
